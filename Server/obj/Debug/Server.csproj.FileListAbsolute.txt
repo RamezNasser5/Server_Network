@@ -1,0 +1,17 @@
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\bin\Debug\Server.exe.config
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\bin\Debug\Server.exe
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\bin\Debug\Server.pdb
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\bin\Debug\Interop.WMPLib.dll
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\bin\Debug\AxInterop.WMPLib.dll
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Interop.WMPLib.dll
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\AxInterop.WMPLib.dll
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.Form1.resources
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.exe
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.pdb
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\bin\Debug\SnmpSharpNet.dll
+D:\programers\material\level_4\Network Programming\New folder\Server\Server\obj\Debug\Server.csproj.Up2Date
